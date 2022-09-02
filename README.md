@@ -1,4 +1,4 @@
-Hi 👋 My name  é Carlos Eduardo
+Ola 👋 Meu nome é Carlos Eduardo
 ==========================
 
 Estudante de Programação
